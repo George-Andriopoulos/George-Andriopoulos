@@ -1,4 +1,4 @@
-[![George's Banner](https://i.ibb.co/4Y0kfH2/GitHub.png)](https://www.george-andriopoulos.com)
+[![George's Banner]([https://i.ibb.co/4Y0kfH2/GitHub.png](https://github.com/FixCrap/FixCrap/blob/main/github_prof.jpg))](https://www.george-andriopoulos.com)
 
 # Hi, I'm George Andriopoulos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
