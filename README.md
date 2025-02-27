@@ -1,3 +1,5 @@
+[![George's Banner](https://i.ibb.co/4Y0kfH2/GitHub.png)](https://www.george-andriopoulos.com)
+
 # Hi, I'm George Andriopoulos! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 **📍 Zakynthos, Greece**  
@@ -11,9 +13,9 @@
 ---
 
 ### 👨‍💻 **About Me**  
-I’m a **Full Stack Developer** with a passion for building scalable, high-performance web applications. With expertise in **Next.js, React, TypeScript, and Node.js**, I specialize in creating seamless, user-centric solutions that prioritize performance, security, and scalability.  
+I’m a **Full Stack Developer** with a passion for turning ideas into reality. I specialize in building **scalable, high-performance web applications** using **Next.js, React, TypeScript, and Node.js**. Whether it’s crafting intuitive interfaces or optimizing backend systems, I love solving problems and delivering solutions that make an impact.  
 
-I thrive in dynamic environments where I can apply my problem-solving skills, attention to detail, and user-focused approach to deliver impactful results. Whether it’s crafting intuitive interfaces or optimizing backend systems, I’m committed to delivering high-quality solutions on time and within scope.  
+When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, exploring new cultures 🌍, or contributing to **open-source projects**. I believe in continuous learning and pushing boundaries—both in the gym and in tech!  
 
 ---
 
@@ -32,6 +34,12 @@ I thrive in dynamic environments where I can apply my problem-solving skills, at
 
 ---
 
+### 🌟 **What I’m Up To**  
+- 🔭 **Currently working on:** Building scalable web apps with Next.js and React.  
+- 🌱 **Currently learning:** Advanced backend development with Node.js and Supabase.  
+- 👯 **Looking to collaborate on:** Open-source projects or innovative web apps.  
+- 🤔 **Looking for help with:** Scaling applications for global audiences.  
+- 💬 **Ask me about:** Full-stack development, UI/UX design, or how to stay disciplined in tech and fitness!  
 
 ---
 
