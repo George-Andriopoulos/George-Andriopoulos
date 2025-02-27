@@ -47,12 +47,6 @@ When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, 
 
 ---
 
-## 🛠️ **Projects**  
-- 🚀 [**Store It**](https://storeit-nine.vercel.app/) – File storage & sharing platform  
-- 📖 [**YC Directory**](https://ycdirectory-nine.vercel.app/) – Startup pitch platform  
-
----
-
 ## 🌍 **Let’s Connect!**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/george-andriopoulos-3107372b0)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2CA5E0?style=flat)](https://www.george-andriopoulos.com)
