@@ -1,5 +1,4 @@
-[![George's Banner]([[https://i.ibb.co/4Y0kfH2/GitHub.png](https://github.com/FixCrap/FixCrap/blob/main/github_prof.jpg](https://github.com/FixCrap/FixCrap/blob/939f82c83ec229629fc0b58daadb6043d2f872cc/github_prof.png
-)))]
+<img src="https://github.com/FixCrap/FixCrap/blob/main/github_prof.png?raw=true" alt="George's GitHub Banner" width="100%" />
 
 # Hi, I'm George Andriopoulos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 **📍 Zakynthos, Greece**  
