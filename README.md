@@ -48,5 +48,5 @@ When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, 
 ---
 
 ## 🌍 **Let’s Connect!**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/george-andriopoulos-3107372b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/george-andriopoulos-3107372b0)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2CA5E0?style=flat)](https://www.george-andriopoulos.com)
