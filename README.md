@@ -28,7 +28,7 @@ When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, 
 ---
 
 ## 🛠️ **Tech Stack**  
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,mongodb,supabase,git,github,vercel,figma,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,mongodb,supabase,git,github,vercel,figma,html,css,docker)
 
 ---
 
