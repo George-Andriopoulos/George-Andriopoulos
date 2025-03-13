@@ -43,7 +43,7 @@ When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, 
 ---
 
 ## 🌟 **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FixCrap&theme=tokyonight&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
