@@ -33,10 +33,10 @@ When I’m not coding, you’ll find me lifting heavy weights 🏋️‍♂️, 
 ---
 
 ## 📈 **GitHub Stats**  
-<a href="https://github.com/FixCrap">
+<a href="https://github.com/George-Andriopoulos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FixCrap&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </a>
-<a href="https://github.com/FixCrap">
+<a href="https://github.com/George-Andriopoulos">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FixCrap&theme=tokyonight" width="48%" />
 </a>
 
