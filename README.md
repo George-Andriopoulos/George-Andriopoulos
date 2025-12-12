@@ -42,17 +42,25 @@ When I’m not coding, you’ll probably find me lifting heavy weights 🏋️�
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=George-Andriopoulos&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Andriopoulos&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ## 🌟 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&theme=tokyonight&layout=compact&hide_border=true" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
 ---
 
