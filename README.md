@@ -42,13 +42,23 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="George-Andriopoulos GitHub stats"
+    width="48%"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=George-Andriopoulos&theme=tokyonight&hide_border=true" 
-    width="48%" 
+  <img
+    src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true"
+    alt="George-Andriopoulos GitHub streak"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top languages"
+    width="48%"
   />
 </p>
 
