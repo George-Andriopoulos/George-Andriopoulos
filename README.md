@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FixCrap/FixCrap/main/github_prof.png" alt="George Andriopoulos GitHub Banner" width="100%" />
+<img src="./github_prof.png" alt="George Andriopoulos GitHub Banner" width="100%" />
 
 # Hi, I'm George Andriopoulos 👋
 📍 Zakynthos, Greece  
@@ -42,10 +42,10 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 ## 📈 GitHub Stats
 
 <a href="https://github.com/George-Andriopoulos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </a>
 <a href="https://github.com/George-Andriopoulos">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=George-Andriopoulos&theme=tokyonight" width="48%" />
+  <img align="center" src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 ---
