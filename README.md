@@ -42,12 +42,8 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/George-Andriopoulos">
-    <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  </a>
-  <a href="https://github.com/George-Andriopoulos">
-    <img src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
@@ -55,11 +51,4 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 ## 🌍 Let’s Connect
 
 [LinkedIn](https://linkedin.com/in/george-andriopoulos-3107372b0) · [Portfolio](https://www.george-andriopoulos.com)
-</a>
 
----
-
-## 🌍 Let’s Connect
-
-[LinkedIn](https://linkedin.com/in/george-andriopoulos-3107372b0) ·
-[Portfolio](https://www.george-andriopoulos.com)
