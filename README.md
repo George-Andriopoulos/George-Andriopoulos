@@ -35,17 +35,26 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,tailwind,mongodb,supabase,graphql,git,github,vercel,figma,html,css,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,mongodb,supabase,graphql,git,github,vercel,figma,html,css,docker)
 
 ---
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/George-Andriopoulos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-</a>
-<a href="https://github.com/George-Andriopoulos">
-  <img align="center" src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <a href="https://github.com/George-Andriopoulos">
+    <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  </a>
+  <a href="https://github.com/George-Andriopoulos">
+    <img src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+[LinkedIn](https://linkedin.com/in/george-andriopoulos-3107372b0) · [Portfolio](https://www.george-andriopoulos.com)
 </a>
 
 ---
