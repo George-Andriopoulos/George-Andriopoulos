@@ -1,6 +1,7 @@
 <img src="./github_prof.png" alt="George Andriopoulos GitHub Banner" width="100%" />
 
 # Hi, I'm George Andriopoulos 👋
+
 📍 Zakynthos, Greece  
 💻 Frontend / Full Stack Engineer  
 🚀 Building production-grade web & mobile applications
@@ -14,17 +15,17 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Frontend / Full Stack Engineer** focused on building **real-world, production-grade applications** used by real users.
+I'm a **Frontend / Full Stack Engineer** focused on building **real-world, production-grade applications** used by real users.
 
 I specialize in **React, React Native, Next.js, and TypeScript**, working across complex domains like **AI-driven products, healthcare, and SaaS platforms**. I regularly make architectural decisions, performance tradeoffs, and product-level improvements — not just UI work.
 
 I care deeply about **code quality, scalability, performance, and user experience**, and I enjoy owning features end-to-end.
 
-Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refining side projects.
+Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refining side projects.
 
 ---
 
-## 🌟 What I’m Up To
+## 🌟 What I'm Up To
 
 - 🔭 Building scalable web & mobile apps with React and Next.js  
 - 🌱 Learning deeper backend & system design patterns  
@@ -43,12 +44,11 @@ Outside of code, you’ll find me lifting heavy weights 🏋️‍♂️ or refi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=George-Andriopoulos&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Let's Connect
 
 [LinkedIn](https://linkedin.com/in/george-andriopoulos-3107372b0) · [Portfolio](https://www.george-andriopoulos.com)
-
