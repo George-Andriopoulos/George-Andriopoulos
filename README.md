@@ -43,16 +43,8 @@ Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refini
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="180" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=George-Andriopoulos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" />
 </p>
 
 ---
@@ -65,20 +57,6 @@ Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refini
 
 ---
 
-## 💻 Coding Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=George-Andriopoulos&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 [LinkedIn](https://linkedin.com/in/george-andriopoulos-3107372b0) · [Portfolio](https://www.george-andriopoulos.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=George-Andriopoulos&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
