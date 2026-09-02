@@ -52,7 +52,7 @@ Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refini
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/George-Andriopoulos/George-Andriopoulos/output/activity-graph.svg" width="100%" />
+  <img src="./profile/activity-graph.svg" width="100%" />
 </p>
 
 ---
