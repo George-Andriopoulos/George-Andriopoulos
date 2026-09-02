@@ -43,8 +43,8 @@ Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refini
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=George-Andriopoulos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Andriopoulos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" />
+  <img src="./profile/stats.svg" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Outside of code, you'll find me lifting heavy weights 🏋️‍♂️ or refini
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Andriopoulos&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/George-Andriopoulos/George-Andriopoulos/output/activity-graph.svg" width="100%" />
 </p>
 
 ---
