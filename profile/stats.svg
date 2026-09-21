@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">George-Andriopoulos&#39; GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 3267, Total PRs: 12, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 3323, Total PRs: 12, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.58633406509333;
+        stroke-dashoffset: 194.42066724891563;
       }
     }
   
